@@ -1,0 +1,57 @@
+[
+  {  "name": "perruque",
+    "image": "img/portfolio/perruque.jpg",
+    "description": "lace perruques 12 pouces bob dentelle perruques ",
+    "link": "perruque.html",
+    "prix": "180dt"
+    },
+    {  "name": "extensions",
+      "image": "img/portfolio/extensions.jpg",
+      "description": "22 pouces, chatin foncé, semi-naturels",
+      "link": "perruque.html",
+      "prix": "40dt"
+
+    },
+    {  "name": "fake frange",
+      "image": "img/portfolio/fakefrange.jpg",
+      "description": "10 cm, noir, cheveux naturels",
+      "link": "perruque.html",
+      "prix": "20"
+
+    },
+    {  "name": "u shape wig",
+      "image": "img/portfolio/u-wig.jpg",
+      "description": "perruque à la forme u",
+      "link": "perruque.html",
+      "prix": "30dt"
+
+      },
+      {  "name": "body bodystocking",
+        "image": "img/portfolio/bodystocking.jpg",
+        "description": "sexy bodystocking noir, taille standard",
+        "link": "lingerie.html",
+        "prix": "55dt"
+
+      },
+      {  "name": "collant",
+        "image": "img/portfolio/collant.jpg",
+        "description": "mi-pied, taille standard",
+        "link": "lingerie.html",
+        "prix": "15dt"
+
+      },
+      {  "name": "sandale",
+        "image": "img/portfolio/sandale.jpg",
+        "description": "bleu foncé, taille 38",
+        "link": "outfit.html",
+        "prix": "20dt"
+
+      },
+      {  "name": "pontalon Gothique faux cuir",
+        "image": "img/portfolio/faux-cuir2.jpg",
+        "description": "standard, wet look",
+        "link": "outfit.html",
+        "prix": "25dt"
+
+      }
+]
